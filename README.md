@@ -2,7 +2,7 @@
 
 ## Game Description
 
-**Goblin's Curse** is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations. It is an action-packed 2D game where the player, Milo, a daring treasure hunter, seeks the Goblin King's legendary treasure, said to be Cursed. Hunted by goblins because of the curse, he must use his Magic Slingshot to recover treasures, survive relentless waves of goblins, and ultimately uncover the legendary treasure of the Goblin King.
+**Goblin's Curse** is a simple graphics project created using the **iGraphics** library in C++. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations. It is an action-packed 2D game where the player, Milo, a daring treasure hunter, seeks the Goblin King's legendary treasure, said to be Cursed. Hunted by goblins because of the curse, he must use his Magic Slingshot to recover treasures, survive relentless waves of goblins, and ultimately uncover the legendary treasure of the Goblin King.
 
 ## Features
 - Magic Bow: Unlimited ammo for fast-paced combat against goblins.
